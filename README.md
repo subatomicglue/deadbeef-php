@@ -2,7 +2,7 @@
 # deadbeef - fancypants webpage renderer
 
 my 2006 php ascii art renderer...
-[see here](../deadbeef-js) for updated 2019 javascript version
+[see here](../../deadbeef-js) for updated 2019 javascript version
 
 ## 0xdeadbeef</h1>
 dead beef is a fancy ascii rendering utility.  it will place
